@@ -1,4 +1,4 @@
-from backend.client import SUPABASE
+from backend.db.session import SUPABASE
 import pickle
 import base64
 from datetime import datetime, timedelta
